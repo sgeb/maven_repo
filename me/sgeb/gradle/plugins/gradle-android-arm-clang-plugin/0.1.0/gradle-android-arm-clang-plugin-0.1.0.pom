@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>me.sgeb.gradle.plugins</groupId>
+  <artifactId>gradle-android-arm-clang-plugin</artifactId>
+  <version>0.1.0</version>
+  <name>Gradle Android-Arm-Clang Plugin</name>
+  <description>Integrates the Android NDK toolchain into Gradle to cross-compile C/C++ code. The standalone toolchain must be installed separately, please refer to the Android documentation for instructions.</description>
+  <url>https://github.com/sgeb/gradle-android-arm-clang-plugin</url>
+  <inceptionYear>2014</inceptionYear>
+  <licenses>
+    <license>
+      <name>The MIT License</name>
+      <url>http://www.opensource.org/licenses/mit-license.php</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>sgeb</id>
+      <name>Serge Gebhardt</name>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git:https://github.com/sgeb/gradle-android-arm-clang-plugin.git</connection>
+    <developerConnection>scm:git:https://github.com/sgeb/gradle-android-arm-clang-plugin.git</developerConnection>
+    <url>https://github.com/sgeb/gradle-android-arm-clang-plugin</url>
+  </scm>
+</project>

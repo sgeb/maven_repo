@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>me.sgeb.gradle.plugins</groupId>
+  <artifactId>gradle-android-arm-clang-plugin</artifactId>
+  <version>0.1.0</version>
+  <versioning>
+    <versions>
+      <version>0.1.0</version>
+    </versions>
+    <lastUpdated>20140302220615</lastUpdated>
+  </versioning>
+</metadata>
